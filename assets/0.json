@@ -1,0 +1,19 @@
+{
+  "name": "blue-treble",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "8nidM2aFX4eA7vTpgrgTxjKnMya5L2qM9wp8etzhhLPk",
+        "share": 100
+      }
+    ]
+  }
+}
